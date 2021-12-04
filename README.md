@@ -11,10 +11,15 @@ make
 ```
 
 ### Files
+
 main.cpp -> Experiments entries (feel free to change and compile again for different experiments)
+
 config.json -> Experiment configuration (only for a single run)
+
 data.cpp -> Data generator
+
 estimator.cpp/ hpp -> Implementation of algorithms
 
 json.hpp -> Utilities for Json
+
 utils.hpp -> Utilities for hash function ...
